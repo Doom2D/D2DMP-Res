@@ -17,8 +17,8 @@ data\textures\HTRAP01.tga
 data\textures\STD_2_32_32.tga
 data\textures\STD_2_64_32.tga
 data\textures\STD_2_64_64.tga
-data\textures\WATER2.png
-data\textures\WATER0.png
+data\textures\WATER_2.png
+data\textures\WATER_0.png
 data\textures\VTRAP01.tga
 data\textures\SWITCH9_1.tga
 data\textures\SWITCH10_1.tga
