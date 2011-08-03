@@ -2,8 +2,8 @@ Death arena
 by ar888
 1456
 1392
-data\music\Ti_Pobed.xm
-data\textures\sky\D2DSKY1.png
+data\music\SPOK.xm
+data\sky\D2DSKY1.png
 24
 data\textures\STD_1_16_16.tga
 data\textures\STD_1_32_16.tga
@@ -16,8 +16,8 @@ data\textures\STD_1_64_64.tga
 data\textures\STD_2_64_64.tga
 data\textures\HTRAP01.tga
 data\textures\VTRAP01.tga
-data\textures\WATER2.png
-data\textures\WATER0.png
+data\textures\WATER_2.png
+data\textures\WATER_0.png
 data\textures\STD_4_3.tga
 data\textures\STD_2_16_16.tga
 data\textures\STD_2_32_16.tga
