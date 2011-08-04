@@ -1,7 +1,7 @@
 dm_superdm
 dm_megadm
-dm_fastway
 dm_stayalive2
+dm_fastway
 dm_sur3
 dm_pyramid
 dm_delta

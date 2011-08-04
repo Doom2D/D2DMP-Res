@@ -1,3 +1,4 @@
+DEFAULT
 Sarge
 Faggot
 Batman
@@ -8,8 +9,10 @@ Gottam
 Neo
 Death
 Dr Robotnik
-Dr Who
-GLaDOS
-Shodan
-Ashot
+Fluttershy
 Spy
+Suiseiseki
+Baka
+Sosnooley
+Inglip
+Obama
