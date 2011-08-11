@@ -5,12 +5,12 @@ by Surgeon_Ld & ar888
 data\music\AC.xm
 data\sky\D2DSKY1.png
 7
-data\textures\MKDP04.tga
-data\textures\STD_2_16_16.tga
-data\textures\HTRAP01.tga
+data\textures\std\MKDP04.tga
+data\textures\std\STD_2_16_16.tga
+data\textures\std\HTRAP01.tga
 data\textures\WATER_0.png
-data\textures\STD_4_3.tga
-data\textures\VTRAP01.tga
+data\textures\std\STD_4_3.tga
+data\textures\std\VTRAP01.tga
 2
 2
 512
