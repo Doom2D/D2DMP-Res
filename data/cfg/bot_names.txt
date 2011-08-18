@@ -1,18 +1,18 @@
 DEFAULT
-Sarge
-Faggot
-Batman
-Soupinator
-D. Dave
-Pootis
-Gottam
-Neo
-Death
-Dr Robotnik
-Fluttershy
-Spy
-Suiseiseki
-Baka
-Sosnooley
-Inglip
-Obama
+[BOT] Sarge
+[BOT] Faggot
+[BOT] Batman
+[BOT] Soupman
+[BOT] D. Dave
+[BOT] Pootis
+[BOT] Gottam
+[BOT] Neo
+[BOT] Death
+[BOT] Robotnik
+[BOT] Fl-shy
+[BOT] Spy
+[BOT] Desu
+[BOT] Baka
+[BOT] Dr. Who
+[BOT] Inglip
+[BOT] Obama

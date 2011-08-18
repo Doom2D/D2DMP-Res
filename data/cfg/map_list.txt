@@ -3,6 +3,7 @@ dm_megadm
 dm_stayalive2
 dm_bloodbath
 dm_df1
+dm_df6
 dm_fastway
 dm_sur3
 dm_pyramid
