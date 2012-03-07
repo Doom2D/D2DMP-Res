@@ -2,4 +2,6 @@ dm_superdm
 dm_megadm
 dm_bloodbath
 dm_df2
+dm_df3
+dm_df5
 dm_df6

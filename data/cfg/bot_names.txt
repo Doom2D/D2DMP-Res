@@ -1,16 +1,29 @@
 DEFAULT
+[BOT] Prikolist
 [BOT] Sarge
+[BOT] Rambo
 [BOT] Faggot
+[BOT] Cmd. Keen
 [BOT] Batman
+[BOT] Duke Nukem
 [BOT] Soupman
+[BOT] Caleb
 [BOT] D. Dave
+[BOT] Blazkowicz
 [BOT] Pootis
+[BOT] Dr. Freeman
 [BOT] Gottam
+[BOT] Deep Blue
 [BOT] Neo
+[BOT] Romero
 [BOT] Death
+[BOT] Carmack
 [BOT] Robotnik
+[BOT] G-Man
 [BOT] Fl-shy
+[BOT] Terminator
 [BOT] Spy
+[BOT] Dr. House
 [BOT] Desu
 [BOT] Baka
 [BOT] Dr. Who
