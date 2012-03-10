@@ -1,21 +1,20 @@
-Up
-Up and Away
+Up, Up and Away
 jumpy style (by DEAD for D2D:F)
 1056
 768
 data\music\DFMUS1.xm
 data\sky\DFSKY0.png
 11
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+data\textures\std\STD5_16-16_2_V.tga
+data\textures\std\STD5_16-16_1_V.tga
+data\textures\std\STD5_16-16_4.tga
+data\textures\std\STD5_16-16_1_H.tga
+data\textures\std\STD5_16-16_3_H.tga
+data\textures\std\STD5_16-16_2_H.tga
+data\textures\std\STD5_16-16_5_SW.tga
+data\textures\std\STD5_16-16_5_NE.tga
+data\textures\std\STD5_16-16_3_V.tga
+data\textures\std\STD_6_2.tga
 1
 2
 0
@@ -91,6 +90,10 @@ data\sky\DFSKY0.png
 0
 2
 0
+80
+0
+2
+0
 96
 0
 2
@@ -132,6 +135,10 @@ data\sky\DFSKY0.png
 2
 0
 256
+0
+2
+0
+272
 0
 2
 0
@@ -575,6 +582,10 @@ data\sky\DFSKY0.png
 0
 2
 1040
+16
+0
+2
+1040
 32
 0
 2
@@ -839,6 +850,10 @@ data\sky\DFSKY0.png
 0
 2
 752
+688
+0
+2
+752
 704
 0
 2
@@ -988,6 +1003,10 @@ data\sky\DFSKY0.png
 2
 0
 304
+0
+4
+16
+432
 0
 4
 16
@@ -1202,6 +1221,10 @@ data\sky\DFSKY0.png
 592
 0
 4
+384
+592
+0
+4
 368
 592
 0
@@ -1463,6 +1486,10 @@ data\sky\DFSKY0.png
 0
 2
 688
+208
+0
+2
+688
 224
 0
 2
@@ -1532,6 +1559,10 @@ data\sky\DFSKY0.png
 4
 672
 352
+0
+2
+688
+368
 0
 2
 688
@@ -1688,6 +1719,10 @@ data\sky\DFSKY0.png
 4
 864
 512
+0
+4
+704
+192
 0
 4
 704
