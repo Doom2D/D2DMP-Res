@@ -16,10 +16,6 @@ data\textures\std\STD5_16-16_5_NE.tga
 data\textures\std\STD5_16-16_3_V.tga
 data\textures\std\STD_6_2.tga
 1
-2
-0
-320
-1
 4
 96
 512
@@ -135,14 +131,6 @@ data\textures\std\STD_6_2.tga
 2
 0
 256
-0
-2
-0
-272
-0
-2
-0
-272
 0
 2
 0
@@ -1907,3 +1895,11 @@ data\textures\std\STD_6_2.tga
 0
 928
 736
+0
+2
+0
+320
+0
+3
+0
+272
