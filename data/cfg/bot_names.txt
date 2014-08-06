@@ -1,4 +1,3 @@
-DEFAULT
 [BOT] Prikolist
 [BOT] Sarge
 [BOT] Rambo
